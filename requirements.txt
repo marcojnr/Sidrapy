@@ -1,0 +1,16 @@
+certifi
+chardet
+et-xmlfile
+greenlet
+idna
+numpy
+openpyxl
+pandas
+pyodbc
+python-dateutil
+pytz
+requests
+sidrapy
+six
+SQLAlchemy
+urllib3
