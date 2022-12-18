@@ -130,7 +130,6 @@ print(data_recente)
 
 mes_IBGEHist = data_recente.month
 
-
 engine = create_engine("mssql+pyodbc:///?odbc_connect=%s" % quote_plus(str_conexao))
 print(engine.execute('SELECT @@VERSION').fetchone()[0])
 
